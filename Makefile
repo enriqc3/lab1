@@ -1,4 +1,5 @@
 # Makefile for lab -1
+# Enrique Tapia
 
 all: lab1
 
