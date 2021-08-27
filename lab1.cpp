@@ -1,4 +1,4 @@
-//
+//Enrique Tapia
 //3350 fall-2021
 //lab1 program
 #include <string.h>
